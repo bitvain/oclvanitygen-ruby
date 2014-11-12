@@ -1,0 +1,3 @@
+[submodule "vanitygen-ruby"]
+	path = vanitygen-ruby
+	url = https://github.com/bitvain/vanitygen-ruby.git
